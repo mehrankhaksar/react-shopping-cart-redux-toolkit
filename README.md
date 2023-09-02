@@ -1,2 +1,2 @@
 # React Shopping Cart Redux Toolkit
-### https://vercel.com/tties/react-shopping-cart-redux-toolkit/5SPVea8bTMSrswt7znczzR3P3HFA
+### https://react-shopping-cart-redux-toolkit-atniz4rtc-tties.vercel.app/products
